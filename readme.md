@@ -1,6 +1,6 @@
  # ChatBot
 
-**Live Demo:** [**👉 1. link**](https://devnamdev2003.github.io/chatbot)
+**Live Demo:** [**👉 1. link**](https://devnamdev2003.github.io/chatBot)
 
 **Live Demo:** [**👉 2. link**](https://chat-di.onrender.com)
 
